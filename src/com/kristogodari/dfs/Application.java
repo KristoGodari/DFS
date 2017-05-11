@@ -1,4 +1,4 @@
-package dfs;
+package com.kristogodari.dfs;
 
 public class Application {
 

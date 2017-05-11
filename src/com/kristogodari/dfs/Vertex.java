@@ -1,4 +1,4 @@
-package dfs;
+package com.kristogodari.dfs;
 
 import java.util.ArrayList;
 import java.util.List;
